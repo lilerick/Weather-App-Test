@@ -6,7 +6,7 @@
     margin: 0;
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-size: 100%;
+    background-size: cover;
 }
 .card{
     background: #000000d0;
